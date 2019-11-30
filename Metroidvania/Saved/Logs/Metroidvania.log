@@ -2309,3 +2309,12 @@ Please see Output Log for details.
 [2019.11.30-23.16.17:919][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_StaticMesh/Environment_Pillar" FILE="C:/Users/MIke/Documents/Unreal Projects/MetroidvaniaJam/Metroidvania/Content/_StaticMesh/Environment_Pillar.uasset" SILENT=true
 [2019.11.30-23.16.17:948][639]LogSavePackage: Moving 'C:/Users/MIke/Documents/Unreal Projects/MetroidvaniaJam/Metroidvania/Saved/Environment_Pillar185004E6480AA603811ADC9E03493C0B.tmp' to 'C:/Users/MIke/Documents/Unreal Projects/MetroidvaniaJam/Metroidvania/Content/_StaticMesh/Environment_Pillar.uasset'
 [2019.11.30-23.16.17:965][639]LogSavePackage: Moving 'C:/Users/MIke/Documents/Unreal Projects/MetroidvaniaJam/Metroidvania/Saved/Environment_Pillar_CrossBeam0E7427CF43F8D088CA6964A67C51452A.tmp' to 'C:/Users/MIke/Documents/Unreal Projects/MetroidvaniaJam/Metroidvania/Content/_StaticMesh/Environment_Pillar_CrossBeam.uasset'
+[2019.11.30-23.17.36:043][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.11.30-23.17.36:188][907]LogSavePackage: Moving 'C:/Users/MIke/Documents/Unreal Projects/MetroidvaniaJam/Metroidvania/Saved/Test_Level_Auto4824E314C4B44960B433D2EBC645716E4.tmp' to 'C:/Users/MIke/Documents/Unreal Projects/MetroidvaniaJam/Metroidvania/Saved/Autosaves/Game/_Levels/Test_Level_Auto4.umap'
+[2019.11.30-23.17.36:192][907]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_Levels/Test_Level' took 0.172
+[2019.11.30-23.17.36:192][907]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.172
+[2019.11.30-23.18.53:317][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.18.57:204][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.11.30-23.18.57:336][533]LogSavePackage: Moving 'C:/Users/MIke/Documents/Unreal Projects/MetroidvaniaJam/Metroidvania/Saved/Test_Level35899EBA4BE86E885CEF1287B1F1FD9C.tmp' to 'C:/Users/MIke/Documents/Unreal Projects/MetroidvaniaJam/Metroidvania/Content/_Levels/Test_Level.umap'
+[2019.11.30-23.18.57:382][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/Test_Level_BuiltData" FILE="C:/Users/MIke/Documents/Unreal Projects/MetroidvaniaJam/Metroidvania/Content/_Levels/Test_Level_BuiltData.uasset" SILENT=true
+[2019.11.30-23.18.57:474][533]LogSavePackage: Moving 'C:/Users/MIke/Documents/Unreal Projects/MetroidvaniaJam/Metroidvania/Saved/Test_Level_BuiltData39EF716946DA2C44B4E3B7871170D35F.tmp' to 'C:/Users/MIke/Documents/Unreal Projects/MetroidvaniaJam/Metroidvania/Content/_Levels/Test_Level_BuiltData.uasset'
