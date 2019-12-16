@@ -560,3 +560,704 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.16-02.30.04:062][119]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.12.16-02.30.04:063][119]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.334ms to complete.
 [2019.12.16-02.30.04:063][119]LogFileHelpers: Loading map 'Test_Level' took 0.165
+[2019.12.16-02.30.51:704][598]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={74C6D89B-4CF6-682D-12E3-0BAC4957DF7D}
+[2019.12.16-02.32.10:451][864]LogInit: XAudio2 using 'VG278 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-02.49.00:236][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-02.49.17:935][580]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_BP/Actors/BP_Projectile.BP_Projectile
+[2019.12.16-02.49.18:163][580]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.12.16-02.49.19:090][580]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.16-02.49.19:126][581]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.16-02.50.19:268][485]BlueprintLog: New page: Compile BP_Projectile
+[2019.12.16-02.50.19:496][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.12.16-02.50.40:383][938]LogSlate: Took 0.005920 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.16-02.50.44:543][429]BlueprintLog: New page: Compile BP_Projectile
+[2019.12.16-02.50.44:759][429]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.12.16-02.50.51:597][191]BlueprintLog: New page: Compile BP_Projectile
+[2019.12.16-02.50.51:811][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.12.16-02.50.52:044][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_BP/Actors/BP_Projectile" FILE="../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_BP/Actors/BP_Projectile.uasset" SILENT=true
+[2019.12.16-02.50.52:074][208]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/BP_ProjectileAD2E093046BEB42F6DB9E79F990D4C7A.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_BP/Actors/BP_Projectile.uasset'
+[2019.12.16-02.51.06:464][838]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_BP/BP_PlayerCharacter.BP_PlayerCharacter
+[2019.12.16-02.51.41:792][712]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.12.16-02.51.42:072][712]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.12.16-02.52.08:848][655]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.12.16-02.52.09:112][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.12.16-02.52.12:524][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_BP/BP_PlayerCharacter" FILE="../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_BP/BP_PlayerCharacter.uasset" SILENT=true
+[2019.12.16-02.52.12:645][ 19]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/BP_PlayerCharacterE1DC39BE42DD4BCCE05A6698475A24C1.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_BP/BP_PlayerCharacter.uasset'
+[2019.12.16-02.52.19:980][857]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_BP/Pawns/BP_ActiveEnemy.BP_ActiveEnemy
+[2019.12.16-02.52.35:742][591]BlueprintLog: New page: Compile BP_ActiveEnemy
+[2019.12.16-02.52.35:985][591]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.16-02.53.39:916][863]BlueprintLog: New page: Compile BP_ActiveEnemy
+[2019.12.16-02.53.40:163][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.16-02.53.52:733][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.12.16-02.53.54:593][286]LogSlate: Window 'Save Content' being destroyed
+[2019.12.16-02.53.54:719][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_BP/Pawns/BP_ActiveEnemy" FILE="../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_BP/Pawns/BP_ActiveEnemy.uasset" SILENT=true
+[2019.12.16-02.53.54:830][286]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/BP_ActiveEnemy0E148D99458BED808E71B0AD86FF1CC3.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_BP/Pawns/BP_ActiveEnemy.uasset'
+[2019.12.16-02.53.54:886][286]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2019.12.16-02.54.11:729][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-02.54.18:609][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-02.54.19:915][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.16-02.54.20:180][807]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/Test_LevelA8C8928C46261BCC00FF1F9DC6982FE2.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_Levels/Test_Level.umap'
+[2019.12.16-02.54.20:354][807]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/Test_Level_BuiltDataB4B88EF74D0D07ADA2C8D0921FB36FE6.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_Levels/Test_Level_BuiltData.uasset'
+[2019.12.16-02.54.21:322][913]LogTemp: Repeating last play command: Standalone Game
+[2019.12.16-02.54.21:390][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.12.16-02.54.21:391][913]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2019.12.16-02.54.21:981][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Environment_Credenza4)
+[2019.12.16-02.54.24:563][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-02.54.24:779][284]LogTemp: Repeating last play command: Standalone Game
+[2019.12.16-02.54.24:851][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.12.16-02.54.24:851][284]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2019.12.16-02.54.40:462][491]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.16-02.54.42:725][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.12.16-02.56.08:290][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-02.56.53:321][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.12.16-02.57.09:138][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-02.57.13:631][313]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.16-02.57.23:388][385]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_BP/Actors/BP_EnemySpawner.BP_EnemySpawner
+[2019.12.16-02.57.23:853][385]LogRenderer: Reallocating scene render targets to support 1220x712 Format 10 NumSamples 1 (Frame:1).
+[2019.12.16-02.57.57:772][586]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.16-02.58.54:723][949]BlueprintLog: New page: Compile BP_EnemySpawner
+[2019.12.16-02.58.54:942][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.12.16-02.58.57:228][148]LogSlate: Window 'BP_EnemySpawner' being destroyed
+[2019.12.16-02.58.58:978][327]LogSlate: Window 'BP_EnemySpawner' being destroyed
+[2019.12.16-02.59.01:524][614]LogEditorViewport: Clicking on Actor (LMB): BP_ActiveEnemy_C (BP_ActiveEnemy)
+[2019.12.16-02.59.12:419][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.00.17:891][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.12.16-03.00.17:971][596]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/BP_EnemySpawner87EBB799495E2C3860F300972D7A3F53.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_BP/Actors/BP_EnemySpawner.uasset'
+[2019.12.16-03.00.18:755][682]BlueprintLog: New page: Compile BP_EnemySpawner
+[2019.12.16-03.00.18:977][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.12.16-03.00.23:525][199]LogEditorViewport: Clicking on Actor (LMB): BP_ActiveEnemy_C (BP_ActiveEnemy)
+[2019.12.16-03.00.24:148][271]Cmd: DELETE
+[2019.12.16-03.00.24:148][271]Cmd: ACTOR DELETE
+[2019.12.16-03.00.24:152][271]LogEditorActor: Deleted Actor: BP_ActiveEnemy_C
+[2019.12.16-03.00.24:198][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.12.16-03.00.24:198][271]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.12.16-03.00.29:236][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.00.35:064][436]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.16-03.00.35:071][436]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.16-03.00.45:522][663]BlueprintLog: New page: Compile BP_EnemySpawner
+[2019.12.16-03.00.45:745][663]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.12.16-03.01.01:847][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.01.05:916][901]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level
+[2019.12.16-03.01.16:788][103]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner)
+[2019.12.16-03.01.18:964][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.01.34:419][112]BlueprintLog: New page: Compile Test_Level
+[2019.12.16-03.01.34:644][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.12.16-03.01.38:280][528]LogTemp: Repeating last play command: Standalone Game
+[2019.12.16-03.01.38:354][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.12.16-03.01.39:801][528]LogSlate: Window 'Save Content' being destroyed
+[2019.12.16-03.01.39:962][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.12.16-03.01.40:234][528]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/Test_Level57D287414425B0AC6E9FB19CA041D897.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_Levels/Test_Level.umap'
+[2019.12.16-03.01.40:294][528]LogFileHelpers: Saving map 'Test_Level' took 0.377
+[2019.12.16-03.01.40:347][528]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2019.12.16-03.02.01:850][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.16-03.02.03:043][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.02.03:044][530]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.16-03.02.03:045][530]LogPlayLevel: [PlayLevel] Compiling BP_EnemySpawner before play...
+[2019.12.16-03.02.03:047][530]LogPlayLevel: [PlayLevel]   Compiling BP_ActiveEnemy as a dependent...
+[2019.12.16-03.02.03:332][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.16-03.02.03:332][530]LogPlayLevel: PlayLevel: Blueprint regeneration took 288 ms (2 blueprints)
+[2019.12.16-03.02.03:332][530]PIE: New page: PIE session: Test_Level (Dec 15, 2019, 3:02:03 PM)
+[2019.12.16-03.02.03:333][530]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.16-03.02.03:334][530]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_Test_Level
+[2019.12.16-03.02.03:347][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012728s)
+[2019.12.16-03.02.03:348][530]LogAIModule: Creating AISystem for world Test_Level
+[2019.12.16-03.02.03:348][530]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2019.12.16-03.02.03:348][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/Test_Level.Test_Level to /Game/_Levels/UEDPIE_0_Test_Level.Test_Level (0.013871s)
+[2019.12.16-03.02.03:391][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.12.16-03.02.03:414][530]LogInit: XAudio2 using 'VG278 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-03.02.03:424][530]LogInit: FAudioDevice initialized.
+[2019.12.16-03.02.03:424][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.16-03.02.03:432][530]LogLoad: Game class is 'BP_CustomGame_C'
+[2019.12.16-03.02.03:437][530]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_Test_Level.Test_Level up for play (max tick rate 0) at 2019.12.15-21.02.03
+[2019.12.16-03.02.03:438][530]LogWorld: Bringing up level for play took: 0.004777
+[2019.12.16-03.02.03:438][530]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.12.16-03.02.03:448][530]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.16-03.02.03:451][530]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_Test_Level 0.826
+[2019.12.16-03.02.03:451][530]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.02.16:966][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.02.16:966][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-03.02.16:966][108]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_Test_Level
+[2019.12.16-03.02.16:966][108]LogWorld: UWorld::CleanupWorld for Test_Level, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.02.16:978][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.16-03.02.16:978][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.02.17:027][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-03.02.17:054][108]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.12.16-03.02.17:073][109]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.12.16-03.02.20:636][506]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner)
+[2019.12.16-03.02.23:665][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.02.29:619][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.16-03.02.37:218][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.16-03.02.40:981][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.02.46:259][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.03.00:984][123]BlueprintLog: New page: Compile BP_EnemySpawner
+[2019.12.16-03.03.01:258][123]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2019.12.16-03.03.01:632][154]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/BP_EnemySpawnerC0C60AA144839E4ECFB133AC1BDF33B8.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_BP/Actors/BP_EnemySpawner.uasset'
+[2019.12.16-03.03.01:849][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.03.07:120][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.03.07:236][805]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.16-03.03.07:277][805]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.03.07:278][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.16-03.03.07:278][805]PIE: New page: PIE session: Test_Level (Dec 15, 2019, 3:03:07 PM)
+[2019.12.16-03.03.07:278][805]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_Test_Level
+[2019.12.16-03.03.07:292][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013735s)
+[2019.12.16-03.03.07:292][805]LogAIModule: Creating AISystem for world Test_Level
+[2019.12.16-03.03.07:292][805]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2019.12.16-03.03.07:292][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/Test_Level.Test_Level to /Game/_Levels/UEDPIE_0_Test_Level.Test_Level (0.014692s)
+[2019.12.16-03.03.07:340][805]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.16-03.03.07:361][805]LogInit: XAudio2 using 'VG278 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-03.03.07:371][805]LogInit: FAudioDevice initialized.
+[2019.12.16-03.03.07:379][805]LogLoad: Game class is 'BP_CustomGame_C'
+[2019.12.16-03.03.07:384][805]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_Test_Level.Test_Level up for play (max tick rate 0) at 2019.12.15-21.03.07
+[2019.12.16-03.03.07:384][805]LogWorld: Bringing up level for play took: 0.004644
+[2019.12.16-03.03.07:385][805]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.12.16-03.03.07:388][805]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_Test_Level 0.763
+[2019.12.16-03.03.07:388][805]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.03.11:024][236]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-770.000 Y=145.000 Z=2063.131] for [BP_ActiveEnemy_C]
+[2019.12.16-03.03.11:025][236]LogScript: Warning: Attempted to access BP_ActiveEnemy_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_ActiveEnemy_C_0 is pending kill
+	BP_EnemySpawner_C /Game/_Levels/UEDPIE_0_Test_Level.Test_Level:PersistentLevel.BP_EnemySpawner_2
+	Function /Game/_BP/Actors/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:00D0
+[2019.12.16-03.03.11:025][236]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ActiveEnemy_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_ActiveEnemy_C_0 is pending kill". Blueprint:  BP_EnemySpawner Function:  Execute Ubergraph BP Enemy Spawner Graph:  EventGraph Node:  Set MeleeAttacker
+[2019.12.16-03.03.11:025][236]LogScript: Warning: Attempted to access BP_ActiveEnemy_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_ActiveEnemy_C_0 is pending kill
+	BP_EnemySpawner_C /Game/_Levels/UEDPIE_0_Test_Level.Test_Level:PersistentLevel.BP_EnemySpawner_2
+	Function /Game/_BP/Actors/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:00FB
+[2019.12.16-03.03.11:025][236]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ActiveEnemy_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_ActiveEnemy_C_0 is pending kill". Blueprint:  BP_EnemySpawner Function:  Execute Ubergraph BP Enemy Spawner Graph:  EventGraph Node:  Set PickUpToSpawn
+[2019.12.16-03.03.11:025][236]LogScript: Warning: Accessed None attempting to assign variable on an object
+	BP_EnemySpawner_C /Game/_Levels/UEDPIE_0_Test_Level.Test_Level:PersistentLevel.BP_EnemySpawner_2
+	Function /Game/_BP/Actors/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:0110
+[2019.12.16-03.03.11:025][236]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  BP_EnemySpawner Function:  Execute Ubergraph BP Enemy Spawner Graph:  EventGraph Node:  Set PickUpToSpawn
+[2019.12.16-03.03.12:666][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.03.12:666][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-03.03.12:666][433]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_Test_Level
+[2019.12.16-03.03.12:667][433]LogWorld: UWorld::CleanupWorld for Test_Level, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.03.12:678][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.16-03.03.12:678][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.03.12:730][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-03.03.12:734][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.12.16-03.03.12:745][433]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.16-03.03.12:777][434]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.12.16-03.03.23:515][582]LogSlate: Window 'Message Log' being destroyed
+[2019.12.16-03.03.23:569][582]LogSlate: Window 'Message Log' being destroyed
+[2019.12.16-03.03.24:928][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.03.40:019][446]BlueprintLog: New page: Compile BP_EnemySpawner
+[2019.12.16-03.03.40:285][446]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.12.16-03.03.40:567][468]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/BP_EnemySpawner32956AA84DE7008364D688B98AF33DE5.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_BP/Actors/BP_EnemySpawner.uasset'
+[2019.12.16-03.03.41:714][580]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.16-03.03.41:755][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.03.41:756][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.16-03.03.41:756][580]PIE: New page: PIE session: Test_Level (Dec 15, 2019, 3:03:41 PM)
+[2019.12.16-03.03.41:756][580]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_Test_Level
+[2019.12.16-03.03.41:769][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013487s)
+[2019.12.16-03.03.41:770][580]LogAIModule: Creating AISystem for world Test_Level
+[2019.12.16-03.03.41:770][580]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2019.12.16-03.03.41:770][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/Test_Level.Test_Level to /Game/_Levels/UEDPIE_0_Test_Level.Test_Level (0.014465s)
+[2019.12.16-03.03.41:817][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.12.16-03.03.41:838][580]LogInit: XAudio2 using 'VG278 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-03.03.41:848][580]LogInit: FAudioDevice initialized.
+[2019.12.16-03.03.41:856][580]LogLoad: Game class is 'BP_CustomGame_C'
+[2019.12.16-03.03.41:860][580]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_Test_Level.Test_Level up for play (max tick rate 0) at 2019.12.15-21.03.41
+[2019.12.16-03.03.41:861][580]LogWorld: Bringing up level for play took: 0.004600
+[2019.12.16-03.03.41:861][580]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.12.16-03.03.41:864][580]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_Test_Level -0.76
+[2019.12.16-03.03.41:864][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.03.45:585][ 22]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.16-03.03.46:227][ 99]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.03.46:227][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-03.03.46:228][ 99]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_Test_Level
+[2019.12.16-03.03.46:228][ 99]LogWorld: UWorld::CleanupWorld for Test_Level, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.03.46:243][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.16-03.03.46:243][ 99]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.03.46:292][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-03.03.46:296][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.12.16-03.03.46:336][101]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.12.16-03.03.47:445][234]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner)
+[2019.12.16-03.03.55:178][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.04.02:310][930]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.16-03.04.02:349][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.04.02:350][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.16-03.04.02:350][930]PIE: New page: PIE session: Test_Level (Dec 15, 2019, 3:04:02 PM)
+[2019.12.16-03.04.02:350][930]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_Test_Level
+[2019.12.16-03.04.02:363][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013591s)
+[2019.12.16-03.04.02:364][930]LogAIModule: Creating AISystem for world Test_Level
+[2019.12.16-03.04.02:364][930]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2019.12.16-03.04.02:364][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/Test_Level.Test_Level to /Game/_Levels/UEDPIE_0_Test_Level.Test_Level (0.014700s)
+[2019.12.16-03.04.02:408][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.12.16-03.04.02:430][930]LogInit: XAudio2 using 'VG278 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-03.04.02:440][930]LogInit: FAudioDevice initialized.
+[2019.12.16-03.04.02:446][930]LogLoad: Game class is 'BP_CustomGame_C'
+[2019.12.16-03.04.02:450][930]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_Test_Level.Test_Level up for play (max tick rate 0) at 2019.12.15-21.04.02
+[2019.12.16-03.04.02:451][930]LogWorld: Bringing up level for play took: 0.004544
+[2019.12.16-03.04.02:451][930]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.12.16-03.04.02:454][930]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_Test_Level -0.169
+[2019.12.16-03.04.02:455][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.04.09:992][829]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.16-03.04.10:617][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.04.10:617][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-03.04.10:617][904]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_Test_Level
+[2019.12.16-03.04.10:618][904]LogWorld: UWorld::CleanupWorld for Test_Level, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.04.10:634][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.16-03.04.10:634][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.04.10:686][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-03.04.10:690][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.12.16-03.04.10:736][906]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.12.16-03.04.11:943][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.04.22:165][247]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/BP_EnemySpawner4705939A499B9B270AB280AB2C0503ED.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_BP/Actors/BP_EnemySpawner.uasset'
+[2019.12.16-03.04.35:101][657]BlueprintLog: New page: Compile BP_EnemySpawner
+[2019.12.16-03.04.35:362][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.12.16-03.04.35:683][683]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/BP_EnemySpawner4FC15995437F3951AD9F0CB5AD32E384.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_BP/Actors/BP_EnemySpawner.uasset'
+[2019.12.16-03.04.37:437][867]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner)
+[2019.12.16-03.04.39:862][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.04.39:981][151]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.16-03.04.40:021][151]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.04.40:021][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.16-03.04.40:021][151]PIE: New page: PIE session: Test_Level (Dec 15, 2019, 3:04:40 PM)
+[2019.12.16-03.04.40:021][151]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_Test_Level
+[2019.12.16-03.04.40:034][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013396s)
+[2019.12.16-03.04.40:035][151]LogAIModule: Creating AISystem for world Test_Level
+[2019.12.16-03.04.40:035][151]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2019.12.16-03.04.40:035][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/Test_Level.Test_Level to /Game/_Levels/UEDPIE_0_Test_Level.Test_Level (0.014505s)
+[2019.12.16-03.04.40:082][151]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.12.16-03.04.40:103][151]LogInit: XAudio2 using 'VG278 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-03.04.40:113][151]LogInit: FAudioDevice initialized.
+[2019.12.16-03.04.40:119][151]LogLoad: Game class is 'BP_CustomGame_C'
+[2019.12.16-03.04.40:124][151]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_Test_Level.Test_Level up for play (max tick rate 0) at 2019.12.15-21.04.40
+[2019.12.16-03.04.40:125][151]LogWorld: Bringing up level for play took: 0.004784
+[2019.12.16-03.04.40:125][151]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.12.16-03.04.40:128][151]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_Test_Level -0.496
+[2019.12.16-03.04.40:128][151]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.04.49:620][285]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.16-03.04.50:354][373]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.04.50:355][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-03.04.50:355][373]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_Test_Level
+[2019.12.16-03.04.50:355][373]LogWorld: UWorld::CleanupWorld for Test_Level, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.04.50:366][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.16-03.04.50:366][373]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.04.50:419][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-03.04.50:423][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.12.16-03.04.50:467][375]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.12.16-03.04.51:650][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.05.44:535][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.05.49:169][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.16-03.05.49:273][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.12.16-03.05.49:575][ 59]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/Test_Level15EDF6534B2679A3327801B69B35C516.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_Levels/Test_Level.umap'
+[2019.12.16-03.05.49:633][ 59]LogFileHelpers: Saving map 'Test_Level' took 0.403
+[2019.12.16-03.05.49:656][ 59]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/BP_EnemySpawnerC6C1C495452471D87905789E6B63DFF7.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_BP/Actors/BP_EnemySpawner.uasset'
+[2019.12.16-03.06.20:327][633]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner)
+[2019.12.16-03.06.23:634][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.06.25:197][204]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.16-03.06.25:239][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.06.25:239][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.16-03.06.25:239][204]PIE: New page: PIE session: Test_Level (Dec 15, 2019, 3:06:25 PM)
+[2019.12.16-03.06.25:240][204]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_Test_Level
+[2019.12.16-03.06.25:254][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014209s)
+[2019.12.16-03.06.25:255][204]LogAIModule: Creating AISystem for world Test_Level
+[2019.12.16-03.06.25:255][204]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2019.12.16-03.06.25:255][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/Test_Level.Test_Level to /Game/_Levels/UEDPIE_0_Test_Level.Test_Level (0.015315s)
+[2019.12.16-03.06.25:301][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.16-03.06.25:322][204]LogInit: XAudio2 using 'VG278 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-03.06.25:332][204]LogInit: FAudioDevice initialized.
+[2019.12.16-03.06.25:341][204]LogLoad: Game class is 'BP_CustomGame_C'
+[2019.12.16-03.06.25:345][204]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_Test_Level.Test_Level up for play (max tick rate 0) at 2019.12.15-21.06.25
+[2019.12.16-03.06.25:346][204]LogWorld: Bringing up level for play took: 0.004682
+[2019.12.16-03.06.25:347][204]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.16-03.06.25:350][204]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_Test_Level 0.725
+[2019.12.16-03.06.25:350][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.06.36:776][570]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.16-03.06.37:901][705]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.16-03.06.38:768][809]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.06.38:768][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-03.06.38:768][809]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_Test_Level
+[2019.12.16-03.06.38:769][809]LogWorld: UWorld::CleanupWorld for Test_Level, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.06.38:783][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.16-03.06.38:783][809]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/Test_Level.Test_Level:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level' with GeneratedClass '/Game/_Levels/Test_Level.Test_Level_C' with ClassGeneratedBy '/Game/_Levels/Test_Level.Test_Level:PersistentLevel.Test_Level'
+[2019.12.16-03.06.38:825][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-03.06.38:830][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.12.16-03.06.38:872][811]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.16-03.06.40:409][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-03.07.06:082][ 17]BlueprintLog: New page: Compile BP_EnemySpawner
+[2019.12.16-03.07.06:346][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.12.16-03.07.41:821][ 96]BlueprintLog: New page: Compile BP_EnemySpawner
+[2019.12.16-03.07.42:089][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.12.16-03.07.43:430][208]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/BP_EnemySpawner2F632C86422C1BD1E93767B74C033936.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_BP/Actors/BP_EnemySpawner.uasset'
+[2019.12.16-03.09.54:763][522]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.12.16-03.09.54:871][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.12.16-03.09.55:190][522]LogSavePackage: Moving '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Saved/Test_LevelA4F299144B693F72FAFF1CBCDF0D371D.tmp' to '../../../../../Users/tclan/OneDrive/Documents/GitHub/MetroidvaniaJam/Metroidvania/Content/_Levels/Test_Level.umap'
+[2019.12.16-03.09.55:248][522]LogFileHelpers: Saving map 'Test_Level' took 0.424
+[2019.12.16-03.09.57:899][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.12.16-03.09.58:057][825]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.58:151][825]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.16-03.09.58:151][825]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.58:238][825]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.16-03.09.58:238][825]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.58:289][825]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.16-03.09.58:289][825]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.58:323][825]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.58:351][825]LogSlate: Window 'Metroidvania - Unreal Editor' being destroyed
+[2019.12.16-03.09.58:511][826]Cmd: QUIT_EDITOR
+[2019.12.16-03.09.59:525][826]LogHMD: SteamVR Shutting down.
+[2019.12.16-03.09.59:575][826]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.16-03.09.59:586][826]LogExit: Preparing to exit.
+[2019.12.16-03.09.59:819][826]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:823][826]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:826][826]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:829][826]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:832][826]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:835][826]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:838][826]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:842][826]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:845][826]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:848][826]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:852][826]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:855][826]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:858][826]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:862][826]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:906][826]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.16-03.09.59:918][826]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-03.09.59:918][826]LogExit: Editor shut down
+[2019.12.16-03.09.59:918][826]LogExit: Transaction tracking system shut down
+[2019.12.16-03.10.00:198][826]LogExit: Object subsystem successfully closed.
+[2019.12.16-03.10.00:217][826]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.16-03.10.00:247][826]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (674)
+[2019.12.16-03.10.00:247][826]LogModuleManager: Shutting down and abandoning module Voice (672)
+[2019.12.16-03.10.00:247][826]LogModuleManager: Shutting down and abandoning module BlueprintGraph (670)
+[2019.12.16-03.10.00:247][826]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.12.16-03.10.00:247][826]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.12.16-03.10.00:247][826]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.12.16-03.10.00:248][826]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.12.16-03.10.00:249][826]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.12.16-03.10.00:830][826]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.12.16-03.10.00:875][826]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.12.16-03.10.00:875][826]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.12.16-03.10.00:875][826]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.12.16-03.10.00:875][826]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.12.16-03.10.00:875][826]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.12.16-03.10.00:875][826]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.12.16-03.10.00:875][826]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.12.16-03.10.00:875][826]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.12.16-03.10.00:875][826]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.12.16-03.10.00:875][826]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.12.16-03.10.00:875][826]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.12.16-03.10.00:883][826]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.12.16-03.10.00:884][826]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.12.16-03.10.00:884][826]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.12.16-03.10.00:884][826]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.12.16-03.10.00:885][826]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.12.16-03.10.00:885][826]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.16-03.10.00:885][826]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.16-03.10.00:885][826]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.16-03.10.00:885][826]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.16-03.10.00:885][826]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.16-03.10.00:885][826]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.12.16-03.10.00:886][826]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.12.16-03.10.00:888][826]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.12.16-03.10.00:951][826]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.16-03.10.00:952][826]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.16-03.10.01:053][826]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.16-03.10.01:154][826]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.16-03.10.01:154][826]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.16-03.10.01:154][826]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.16-03.10.01:154][826]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.16-03.10.01:154][826]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.16-03.10.01:154][826]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.16-03.10.01:154][826]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.16-03.10.01:154][826]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.16-03.10.01:154][826]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.16-03.10.01:154][826]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.16-03.10.01:154][826]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.16-03.10.01:154][826]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.16-03.10.01:154][826]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.16-03.10.01:154][826]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.16-03.10.01:155][826]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.16-03.10.01:155][826]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.16-03.10.01:155][826]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.16-03.10.01:155][826]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.16-03.10.01:155][826]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.16-03.10.01:156][826]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.16-03.10.01:156][826]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.16-03.10.01:156][826]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.16-03.10.01:156][826]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.16-03.10.01:156][826]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.16-03.10.01:158][826]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.16-03.10.01:160][826]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.16-03.10.01:206][826]LogDerivedDataCache: Shutdown
+[2019.12.16-03.10.01:206][826]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.16-03.10.01:206][826]LogXGEController: Cleaning working directory: C:/Users/tclan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.16-03.10.01:207][826]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.16-03.10.01:208][826]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.16-03.10.01:208][826]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.16-03.10.01:209][826]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.16-03.10.01:209][826]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.16-03.10.01:213][826]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.16-03.10.01:213][826]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.16-03.10.01:213][826]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.16-03.10.01:213][826]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.16-03.10.01:213][826]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.16-03.10.01:213][826]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.16-03.10.01:213][826]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.16-03.10.01:213][826]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.16-03.10.01:213][826]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.16-03.10.01:213][826]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.16-03.10.01:213][826]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.16-03.10.01:213][826]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.16-03.10.01:214][826]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.16-03.10.01:214][826]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.16-03.10.01:214][826]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.16-03.10.01:214][826]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.16-03.10.01:214][826]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.16-03.10.01:214][826]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.16-03.10.01:214][826]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.16-03.10.01:214][826]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.16-03.10.01:214][826]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.16-03.10.01:214][826]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.16-03.10.01:215][826]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.16-03.10.01:215][826]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.16-03.10.01:238][826]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.16-03.10.01:238][826]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.16-03.10.01:238][826]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B083BA2F1-4070-66DE-89BC-55A8CFBD835A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=3a83c78e4b2fbe86c2d5819f13d73afa%7Cd173e5568bf9453abf2d4d31f191daaf%7C44eed8c1-ebe9-4bb5-9ca8-3ac038d189c8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.16-03.10.01:252][826]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.16-03.10.01:254][826]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.16-03.10.01:255][826]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.16-03.10.01:255][826]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.16-03.10.01:255][826]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.16-03.10.01:256][826]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.16-03.10.01:256][826]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.16-03.10.01:256][826]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.16-03.10.01:256][826]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.16-03.10.01:256][826]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.16-03.10.01:256][826]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.16-03.10.01:256][826]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.16-03.10.01:256][826]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.16-03.10.01:256][826]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.16-03.10.01:256][826]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.16-03.10.01:257][826]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.16-03.10.01:257][826]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.16-03.10.01:257][826]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.16-03.10.01:257][826]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.16-03.10.01:257][826]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.16-03.10.01:258][826]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.16-03.10.01:258][826]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.16-03.10.01:258][826]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.16-03.10.01:258][826]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.16-03.10.01:258][826]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.16-03.10.01:258][826]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.16-03.10.01:258][826]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.16-03.10.01:258][826]LogD3D11RHI: Shutdown
+[2019.12.16-03.10.01:258][826]LogD3D11RHI: CleanupD3DDevice
+[2019.12.16-03.10.01:259][826]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.16-03.10.01:259][826]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.16-03.10.01:259][826]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.16-03.10.01:386][826]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.16-03.10.01:398][826]LogExit: Exiting.
+[2019.12.16-03.10.01:408][826]Log file closed, 12/15/19 21:10:01
